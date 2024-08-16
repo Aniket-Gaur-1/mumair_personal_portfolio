@@ -39,7 +39,11 @@
                 color: white;
             }
             
-            .dark-mode span {
+            .dark-mode .mumair_span_text {
+                color: white;
+            }
+            
+            .dark-mode .mumair_span_text_2 {
                 color: white;
             }
             /* Dark Mode Styles for Navbar */
@@ -63,13 +67,11 @@
             
             .dark-mode .myButton {
                 background: rgba(253, 111, 0, 1);
-                /* Adjust if needed */
                 color: white;
             }
             
             .dark-mode .myButton:hover {
                 background-color: rgba(230, 100, 0, 1);
-                /* Adjust if needed */
             }
             /* Dark Mode Styles for Footer */
             
