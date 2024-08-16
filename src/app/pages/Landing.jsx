@@ -40,7 +40,7 @@ const Landing = () => {
         <img src="/images/facebook.png" alt="Facebook" className="image" />
         <img src="/images/twitter.png" alt="Twitter" className="image" />
         <img src="/images/ig.png" alt="Instagram" className="image" />
-        <img src="/images/linkedin.png" alt="LinkedIn" className="image" />
+        <img src="/images/linkedIn.png" alt="LinkedIn" className="image" />
       </div>
     </div>
   );

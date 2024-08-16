@@ -32,7 +32,7 @@ const Footer = ({
         <img src="/images/facebook.png" alt="Facebook" className="image_2" />
         <img src="/images/twitter.png" alt="Twitter" className="image_2" />
         <img src="/images/ig.png" alt="Instagram" className="image_2" />
-        <img src="/images/linkedin.png" alt="LinkedIn" className="image_2" />
+        <img src="/images/linkedIn.png" alt="LinkedIn" className="image_2" />
       </div>
       <div className="copyrights">
         <div className="copyright_text">
