@@ -1,0 +1,81 @@
+.footer_section {
+    width: 1925px;
+    height: 552px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    background: #f1f1f1;
+}
+
+.footer_logo {
+    width: 279px;
+    height: 67px;
+    margin-top: 109px;
+    display: flex;
+    align-items: center;
+}
+
+.logo2 {
+    margin-right: 20px;
+}
+
+.mumair_text {
+    font-family: 'Poppins', sans-serif;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58.51px;
+    margin: 0;
+}
+
+.mumair_span_text {
+    font-size: 48px;
+    font-weight: 100;
+    display: inline;
+}
+
+.footer_links {
+    display: flex;
+    justify-content: space-between;
+    width: 807px;
+    margin-top: 50px;
+}
+
+.footer_links button {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    font-family: Poppins;
+    font-size: 21px;
+    font-weight: 400;
+    color: #000000;
+}
+
+.social_icons_footer {
+    display: flex;
+    gap: 25px;
+    margin-top: 50px;
+}
+
+.copyrights {
+    width: 100%;
+    height: 84px;
+    background: #545454;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.copyright_text {
+    font-family: Poppins;
+    font-size: 21px;
+    font-weight: 400;
+    color: #ffffff;
+}
+
+.mumair {
+    font-weight: bold;
+    color: #FD6F00;
+}

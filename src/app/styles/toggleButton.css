@@ -1,0 +1,102 @@
+            /* Styles for the Toggle Button */
+            
+            .toggle-button {
+                width: 50px;
+                height: 50px;
+                font-size: 18px;
+                font-family: Poppins, sans-serif;
+                font-weight: 900;
+                border: none;
+                border-radius: 20px;
+                cursor: pointer;
+                transition: background-color 0.3s ease, transform 0.3s ease;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                position: fixed;
+                bottom: 20px;
+                left: 90%;
+                z-index: 10;
+            }
+            
+            .toggle-button.on {
+                background-color: rgb(227, 221, 221);
+                color: black;
+            }
+            
+            .toggle-button.off {
+                background-color: rgba(230, 100, 0, 1);
+                color: white;
+            }
+            /* Dark Mode Styles */
+            
+            .dark-mode {
+                background: rgba(30, 30, 30, 1);
+                color: white;
+            }
+            
+            .dark-mode a {
+                color: white;
+            }
+            
+            .dark-mode span {
+                color: white;
+            }
+            /* Dark Mode Styles for Navbar */
+            
+            .dark-mode .navbar_container {
+                background: rgba(30, 30, 30, 1);
+            }
+            
+            .dark-mode .logo_container {
+                color: white;
+            }
+            
+            .dark-mode .mumair_text_2,
+            .dark-mode .mumair_span_text_2 {
+                color: white;
+            }
+            
+            .dark-mode .links_container button {
+                color: white;
+            }
+            
+            .dark-mode .myButton {
+                background: rgba(253, 111, 0, 1);
+                /* Adjust if needed */
+                color: white;
+            }
+            
+            .dark-mode .myButton:hover {
+                background-color: rgba(230, 100, 0, 1);
+                /* Adjust if needed */
+            }
+            /* Dark Mode Styles for Footer */
+            
+            .dark-mode .footer_section {
+                background: rgba(30, 30, 30, 1);
+            }
+            
+            .dark-mode .footer_links button {
+                color: white;
+            }
+            
+            .dark-mode .social_icons_footer img {
+                filter: invert(1);
+            }
+            
+            .dark-mode .social-links img {
+                filter: invert(1);
+            }
+            
+            .dark-mode .copyrights {
+                background: rgba(18, 18, 18, 1);
+            }
+            
+            .dark-mode .copyright_text {
+                color: white;
+            }
+            
+            .dark-mode .mumair {
+                color: #FD6F00;
+            }

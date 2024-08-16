@@ -1,0 +1,19 @@
+.App {
+    max-width: 100%;
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+}
+
+.navbar-section {
+    margin-bottom: 120px;
+}
+
+.about-section {
+    margin-top: 69.52px;
+    margin-bottom: 139px;
+}
+
+.section {
+    margin-bottom: 139px;
+}

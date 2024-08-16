@@ -1,0 +1,169 @@
+.project-section {
+    width: 1423px;
+    height: 1020px;
+    left: 250px;
+    display: flex;
+    position: relative;
+}
+
+.project {
+    position: absolute;
+    width: 399px;
+    height: 98px;
+    left: 510px;
+    font-family: Poppins;
+    font-size: 65px;
+    font-weight: 600;
+    line-height: 97.5px;
+    letter-spacing: 0.03em;
+    text-align: left;
+}
+
+.project_text {
+    position: absolute;
+    width: 921px;
+    height: 78px;
+    top: 120px;
+    left: 249px;
+    font-family: Poppins;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 31.5px;
+    letter-spacing: 0.03em;
+    text-align: center;
+}
+
+
+/* buttons */
+
+.all {
+    position: absolute;
+    width: 70px;
+    top: 257px;
+    left: 234px;
+    padding: 10px 20px;
+    gap: 10px;
+    border-radius: 12px;
+    border: 0.4px solid #545454;
+    background: #F8F8F8;
+    color: black;
+}
+
+.projects_buttons {
+    position: absolute;
+    width: 767px;
+    height: 56px;
+    top: 257px;
+    left: 326px;
+}
+
+.btn {
+    height: 56px;
+    gap: 10px;
+    padding: 10px 20px;
+    border-radius: 12px;
+    border: 0.4px;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0.03em;
+    text-align: center;
+    cursor: pointer;
+    background: #F8F8F8;
+    color: black;
+}
+
+.ui_btn {
+    width: 108px;
+}
+
+.web_btn {
+    width: 190px;
+    margin-left: 17px;
+}
+
+.app_btn {
+    width: 184px;
+    margin-left: 17px;
+}
+
+.graphic_btn {
+    width: 234px;
+    margin-left: 17px;
+}
+
+.btn.active {
+    background: #FD6F00;
+    color: #FFFFFF;
+}
+
+.wd {
+    position: absolute;
+    width: 445px;
+    height: 489px;
+    top: 419px;
+}
+
+.web_design_1 {
+    left: 0px;
+}
+
+.beigeRectangle {
+    position: absolute;
+    width: 445px;
+    height: 489px;
+    top: 0px;
+    border-radius: 12px;
+}
+
+.rectangle_img_2 {
+    position: absolute;
+    width: 273px;
+    height: 489px;
+    top: 0px;
+    left: 144px;
+}
+
+.rectangle_img_1 {
+    position: absolute;
+    width: 273px;
+    height: 412px;
+    top: 77px;
+    left: 39px;
+}
+
+.web_design_2 {
+    left: 489px;
+}
+
+.web_design_3 {
+    left: 978px;
+}
+
+.web_design_1_text {
+    position: absolute;
+    width: 119px;
+    height: 29px;
+    top: 526px;
+    font-family: Poppins;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 28.5px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    color: #FD6F00;
+}
+
+.web_design_2_text {
+    position: absolute;
+    width: 408px;
+    height: 36px;
+    top: 565px;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0.03em;
+    text-align: left;
+}

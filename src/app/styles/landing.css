@@ -1,0 +1,170 @@
+/* Outer box */
+
+.landing-section {
+    display: flex;
+    position: relative;
+    width: 1400px;
+    height: 686.48px;
+    left: 250px;
+}
+
+
+/* Text area */
+
+.intro-line {
+    position: absolute;
+    width: 89px;
+    height: 36px;
+    top: 97px;
+    left: 7px;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 36px;
+    letter-spacing: 0.03em;
+}
+
+.name {
+    position: absolute;
+    width: 324px;
+    height: 48px;
+    top: 139px;
+    left: 4px;
+    font-family: Poppins;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 48px;
+    letter-spacing: 0.03em;
+    color: #FD6F00;
+}
+
+.ui-role {
+    position: absolute;
+    width: 410px;
+    height: 120px;
+    top: 174px;
+    font-family: Poppins;
+    font-size: 100px;
+    font-weight: 700;
+    line-height: 120px;
+    letter-spacing: 0.03em;
+}
+
+.designer-role {
+    position: absolute;
+    width: 484px;
+    height: 120px;
+    top: 269px;
+    left: 230px;
+    font-family: Poppins;
+    font-size: 100px;
+    font-weight: 700;
+    line-height: 120px;
+    letter-spacing: 0.03em;
+    text-align: left;
+}
+
+.description {
+    position: absolute;
+    width: 698px;
+    height: 101px;
+    top: 417px;
+    left: 7px;
+    font-family: Poppins;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 31.5px;
+    letter-spacing: 0.03em;
+    text-align: justified;
+}
+
+
+/* Image content */
+
+.landing_img1 {
+    position: absolute;
+    width: 485.87px;
+    height: 485.87px;
+    top: 131.37px;
+    left: 877.64px;
+}
+
+.landing_img2 {
+    position: absolute;
+    top: 131.37px;
+    left: 877.64px;
+}
+
+.landing_img3 {
+    position: absolute;
+    left: 862px;
+}
+
+.strip {
+    position: absolute;
+    width: 374px;
+    height: 83px;
+    top: 78px;
+    left: 944px;
+}
+
+
+/* Button container */
+
+.cta-container {
+    top: 540px;
+    position: absolute;
+    margin-left: 7px;
+    margin-bottom: 25.24px;
+    width: 188px;
+    height: 52px;
+    border-radius: 5px;
+}
+
+
+/* CTA button */
+
+.cta-button {
+    position: absolute;
+    width: 188px;
+    height: 52px;
+    border-radius: 5px;
+    font-size: 21px;
+    font-family: Poppins;
+    font-weight: 400;
+    background-color: #fd6f00;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    line-height: 31.5px;
+    letter-spacing: 0.03em;
+    text-align: justified;
+}
+
+.cta-button:hover {
+    background-color: #e65c00;
+}
+
+
+/* Social links */
+
+.social-links {
+    position: absolute;
+    right: 117px;
+    display: flex;
+    gap: 25.03px;
+    width: 205px;
+    height: 32.48px;
+    top: 654px;
+    left: 1018px;
+    padding: 0px;
+}
+
+.image {
+    width: 32.48px;
+    height: 32.48px;
+    top: 654px;
+    left: 1075.51px;
+    padding: 3.04px 0px 3.04px 0px;
+}

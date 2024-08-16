@@ -1,0 +1,172 @@
+.about_container {
+    display: flex;
+    width: 1470px;
+    height: 675px;
+    position: relative;
+    left: 200px;
+}
+
+.about_img {
+    position: absolute;
+    width: 681px;
+    height: 675px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.text_area-2 {
+    width: 100%;
+    padding-right: 0px;
+}
+
+.about_text {
+    width: 330px;
+    height: 98px;
+    top: 55px;
+    left: 714px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 65px;
+    font-weight: 600;
+    line-height: 97.5px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    position: absolute;
+}
+
+.description-2 {
+    position: absolute;
+    width: 756px;
+    height: 101px;
+    top: 168px;
+    left: 714px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 31.5px;
+    letter-spacing: 0.03em;
+    text-align: left;
+}
+
+
+/* headings */
+
+.ux_heading {
+    position: absolute;
+    width: 34px;
+    height: 36px;
+    top: 284px;
+    left: 714px;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 36px;
+    letter-spacing: 0.03em;
+    text-align: left;
+}
+
+.website_heading {
+    position: absolute;
+    width: 199px;
+    height: 36px;
+    top: 375px;
+    left: 714px;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 36px;
+    letter-spacing: 0.03em;
+    text-align: left;
+}
+
+.app_heading {
+    position: absolute;
+    width: 147px;
+    height: 36px;
+    top: 466px;
+    left: 714px;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 36px;
+    letter-spacing: 0.03em;
+    text-align: left;
+}
+
+.graphic_heading {
+    position: absolute;
+    width: 198px;
+    height: 36px;
+    top: 557px;
+    left: 714px;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 36px;
+    letter-spacing: 0.03em;
+    text-align: left;
+}
+
+
+/* slides */
+
+.orangeGroup1 {
+    position: absolute;
+    top: 328px;
+    left: 714px;
+}
+
+.groupOrangeLine1 {
+    position: absolute;
+    top: 429px;
+    left: 714px;
+}
+
+.groupGrey1 {
+    position: absolute;
+    top: 520px;
+    left: 714px;
+}
+
+.groupCircle1 {
+    position: absolute;
+    top: 419px;
+    left: 1351px;
+}
+
+.groupOrangeLine2 {
+    position: absolute;
+    top: 520px;
+    left: 714px;
+}
+
+.groupGrey2 {
+    position: absolute;
+    top: 429px;
+    left: 714px;
+}
+
+.groupCircle2 {
+    position: absolute;
+    top: 510px;
+    left: 1415px;
+}
+
+.orangeGroup2 {
+    position: absolute;
+    top: 601px;
+    left: 714px;
+}
+
+.strip-2 {
+    position: absolute;
+    width: 374px;
+    height: 83px;
+    top: 111px;
+    left: 153px;
+    gap: 0px;
+    opacity: 0px;
+}

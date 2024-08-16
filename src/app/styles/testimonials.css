@@ -1,0 +1,130 @@
+.reviews-section {
+    width: 1920px;
+    height: 733px;
+    display: flex;
+    position: relative;
+    overflow: hidden;
+}
+
+.testimonial {
+    position: absolute;
+    width: 446px;
+    height: 98px;
+    left: 733px;
+    font-family: Poppins;
+    font-size: 65px;
+    font-weight: 600;
+    line-height: 97.5px;
+    letter-spacing: 0.03em;
+    text-align: center;
+}
+
+.testimonial_text {
+    position: absolute;
+    width: 932px;
+    height: 101px;
+    top: 113px;
+    left: 490px;
+    font-family: Poppins;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 31.5px;
+    letter-spacing: 0.03em;
+    text-align: center;
+}
+
+.review_area {
+    position: absolute;
+    width: 1087px;
+    height: 344px;
+    top: 286px;
+    border-radius: 14px;
+    background: #F8F8F8;
+}
+
+.ra1 {
+    left: -757px;
+    opacity: 0.5;
+}
+
+.ra2 {
+    left: 392px;
+}
+
+.ra3 {
+    left: 1541px;
+    opacity: 0.5;
+}
+
+.ceo1 {
+    position: absolute;
+    width: 235px;
+    height: 235px;
+    top: 55px;
+    left: 48px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.loremImg {
+    position: absolute;
+    width: 716px;
+    height: 236px;
+    top: 55px;
+    left: 294px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.name_2 {
+    position: absolute;
+    width: 75px;
+    height: 36px;
+    top: 226px;
+    left: 312px;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+    letter-spacing: 0.02em;
+    text-align: justified;
+    color: #000000;
+}
+
+.ceo {
+    position: absolute;
+    width: 41px;
+    height: 29px;
+    top: 262px;
+    left: 312px;
+    font-family: Poppins;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 28.5px;
+    letter-spacing: 0.02em;
+    text-align: justified;
+    color: #000000;
+}
+
+.line_container {
+    position: absolute;
+    justify-content: space-evenly;
+    width: 255px;
+    height: 16px;
+    top: 717px;
+    left: 832px;
+    border-radius: 8px;
+}
+
+.line_2 {
+    position: relative;
+    width: 57px;
+    height: 16px;
+    border-radius: 8px;
+    opacity: 0px;
+    margin-left: 9px;
+}
+
+.l1 {
+    margin: 0px;
+}

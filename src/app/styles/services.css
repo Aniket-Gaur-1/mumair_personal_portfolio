@@ -1,0 +1,278 @@
+.service-section {
+    width: 1413px;
+    height: 584px;
+    left: 250px;
+    display: flex;
+    position: relative;
+}
+
+.service {
+    position: absolute;
+    width: 292px;
+    height: 98px;
+    left: 559px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 65px;
+    font-weight: 600;
+    line-height: 97.5px;
+    letter-spacing: 0.03em;
+    text-align: center;
+}
+
+.description-3 {
+    position: absolute;
+    width: 932px;
+    height: 101px;
+    top: 113px;
+    left: 239px;
+    right: 242px;
+    font-family: Poppins;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 31.5px;
+    letter-spacing: 0.03em;
+    text-align: center;
+}
+
+
+/* rectangle 1 */
+
+.rectangle {
+    position: absolute;
+    width: 330px;
+    height: 346px;
+    top: 238px;
+    border-radius: 14px;
+    background: #F8F8F8;
+}
+
+.work {
+    position: absolute;
+    top: 153px;
+    left: 18px;
+    font-family: Poppins;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 48px;
+    letter-spacing: 0.03em;
+    text-align: center;
+    color: #000000;
+}
+
+.ui {
+    width: 95px;
+    height: 48px;
+}
+
+.lorem {
+    position: absolute;
+    width: 290px;
+    height: 120px;
+    top: 216px;
+    left: 22px;
+    font-family: Poppins;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 28.5px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    color: #000000;
+}
+
+.ui_img {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    top: 57px;
+    left: 18px;
+    border: 0.5px;
+}
+
+.box {
+    width: 12.31px;
+    height: 9.3px;
+}
+
+.box_img_1 {
+    position: absolute;
+    top: 77px;
+    left: 24.56px;
+}
+
+.box_img_2 {
+    position: absolute;
+    top: 103.77px;
+    left: 48.35px;
+}
+
+.dot_img {
+    position: absolute;
+    top: 80.79px;
+    left: 74.33px;
+}
+
+.line {
+    width: 16.94px;
+    height: 2.74px;
+}
+
+.line_img_1 {
+    position: absolute;
+    top: 77.5px;
+    left: 40.7px;
+}
+
+.line_img_2 {
+    position: absolute;
+    top: 84.06px;
+    left: 40.7px;
+}
+
+.line_img_3 {
+    position: absolute;
+    top: 103.77px;
+    left: 64.49px;
+}
+
+.line_img_4 {
+    position: absolute;
+    top: 110.33px;
+    left: 64.49px;
+}
+
+
+/* rectangle 2 */
+
+.rectangle-2 {
+    left: 361px;
+}
+
+.tinyOrangeLine {
+    position: absolute;
+    top: 58.14px;
+    left: 68.37px;
+}
+
+.web_image {
+    position: absolute;
+    width: 72px;
+    height: 82px;
+    top: 54px;
+    left: 18px;
+}
+
+.dot {
+    position: absolute;
+    top: 69.64px;
+    left: 34.78px;
+}
+
+.orangeLine {
+    position: absolute;
+    width: 31.91px;
+    height: 3.2px;
+    top: 69.64px;
+    left: 41.18px;
+}
+
+.vert {
+    position: absolute;
+    width: 14.99px;
+    height: 33.55px;
+    top: 75.77px;
+    left: 34.77px;
+}
+
+.gate {
+    position: absolute;
+    width: 20.72px;
+    height: 15.79px;
+    top: 93.52px;
+    left: 52.4px;
+}
+
+.scene {
+    position: absolute;
+    width: 20.72px;
+    height: 15.82px;
+    top: 75.77px;
+    left: 52.4px;
+}
+
+.smallLineBlack {
+    position: absolute;
+    width: 6.86px;
+    height: 3.22px;
+    left: 38.82px;
+}
+
+.sml_1 {
+    top: 80.52px;
+}
+
+.sml_2 {
+    top: 85.86px;
+}
+
+.sml_3 {
+    top: 91.24px;
+}
+
+.sml_4 {
+    top: 96.6px;
+}
+
+.sml_5 {
+    top: 101.98px;
+}
+
+
+/* rectangle 3 */
+
+.rectangle-3 {
+    left: 722px;
+}
+
+.app_img {
+    position: absolute;
+    width: 47px;
+    height: 82.47px;
+    top: 51px;
+    left: 22px;
+    border: 1px;
+}
+
+
+/* rectangle 4 */
+
+.rectangle-4 {
+    left: 1083px;
+}
+
+.graphic_img {
+    position: absolute;
+    width: 82px;
+    height: 70px;
+    top: 57px;
+    left: 18px;
+    border-radius: 14px;
+}
+
+.circle {
+    position: absolute;
+    top: 63.77px;
+}
+
+.circle_img_1 {
+    left: 24.56px;
+}
+
+.circle_img_2 {
+    left: 37.59px
+}
+
+.circle_img_3 {
+    left: 50.66px;
+}

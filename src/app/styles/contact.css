@@ -1,0 +1,74 @@
+.contact-section {
+    width: 932px;
+    height: 337px;
+    left: 535px;
+    display: flex;
+    position: relative;
+}
+
+.contact_heading {
+    position: absolute;
+    width: 724px;
+    height: 98px;
+    left: 104px;
+    font-family: Poppins;
+    font-size: 65px;
+    font-weight: 600;
+    line-height: 97.5px;
+    letter-spacing: 0.03em;
+    text-align: center;
+}
+
+.contact_text {
+    position: absolute;
+    width: 932px;
+    height: 101px;
+    top: 113px;
+    font-family: Poppins;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 31.5px;
+    letter-spacing: 0.03em;
+    text-align: center;
+}
+
+.input_container {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    width: 874px;
+    height: 75px;
+    top: 262px;
+    left: 29px;
+    gap: 25px;
+}
+
+.email_area {
+    width: 627px;
+    height: 70px;
+    border-radius: 14px;
+    border: 1px solid #AFAFAF;
+    background: #F8F8F8;
+    font-family: Poppins;
+    font-size: 21px;
+    font-weight: 400;
+    letter-spacing: 0.03em;
+    padding-left: 26px;
+}
+
+.contact_btn {
+    width: 222px;
+    height: 75px;
+    border-radius: 14px;
+    font-size: 21px;
+    font-family: Poppins;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    line-height: 31.5px;
+    letter-spacing: 0.03em;
+    font-weight: 600;
+    text-align: center;
+    background-color: #fd6f00;
+    color: #fff;
+}
