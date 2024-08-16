@@ -1,8 +1,8 @@
 .about_container {
     display: flex;
+    position: relative;
     width: 1470px;
     height: 675px;
-    position: relative;
     left: 200px;
 }
 
@@ -10,29 +10,20 @@
     position: absolute;
     width: 681px;
     height: 675px;
-    gap: 0px;
-    opacity: 0px;
-}
-
-.text_area-2 {
-    width: 100%;
-    padding-right: 0px;
 }
 
 .about_text {
+    position: absolute;
     width: 330px;
     height: 98px;
     top: 55px;
     left: 714px;
-    gap: 0px;
-    opacity: 0px;
     font-family: Poppins;
     font-size: 65px;
     font-weight: 600;
     line-height: 97.5px;
     letter-spacing: 0.03em;
     text-align: left;
-    position: absolute;
 }
 
 .description-2 {
@@ -41,8 +32,6 @@
     height: 101px;
     top: 168px;
     left: 714px;
-    gap: 0px;
-    opacity: 0px;
     font-family: Poppins;
     font-size: 21px;
     font-weight: 400;
@@ -167,6 +156,4 @@
     height: 83px;
     top: 111px;
     left: 153px;
-    gap: 0px;
-    opacity: 0px;
 }

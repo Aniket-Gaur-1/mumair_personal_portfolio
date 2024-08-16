@@ -4,15 +4,13 @@ import "../styles/about.css";
 const About = () => {
   return (
     <div className="about_container">
-      <div className="image-section">
-        <img src="/images/about.png" alt="about" className="about_img" />
+      <img src="/images/about.png" alt="about" className="about_img" />
 
-        <img
-          src="/images/transparent_rectangle.png"
-          alt="Landing"
-          className="strip-2"
-        />
-      </div>
+      <img
+        src="/images/transparent_rectangle.png"
+        alt="Landing"
+        className="strip-2"
+      />
       <div className="about_text">About Me</div>
       <div className="description-2">
         Lorem ipsum dolor sit amet consectetur. Tristique amet sed massa nibh

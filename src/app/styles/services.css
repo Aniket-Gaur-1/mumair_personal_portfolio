@@ -11,14 +11,12 @@
     width: 292px;
     height: 98px;
     left: 559px;
-    gap: 0px;
-    opacity: 0px;
     font-family: Poppins;
     font-size: 65px;
     font-weight: 600;
     line-height: 97.5px;
     letter-spacing: 0.03em;
-    text-align: center;
+    /* text-align: center; */
 }
 
 .description-3 {

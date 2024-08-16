@@ -43,7 +43,9 @@ const Projects = () => {
           App Design
         </button>
         <button
-          className={`graphic_btn btn ${activeButton === "graphic" ? "active" : ""}`}
+          className={`graphic_btn btn ${
+            activeButton === "graphic" ? "active" : ""
+          }`}
           onClick={() => handleButtonClick("graphic")}
         >
           Graphic Design
