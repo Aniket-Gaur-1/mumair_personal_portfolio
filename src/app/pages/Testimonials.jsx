@@ -33,7 +33,7 @@ const Testimonials = () => {
         <div className="ceo">CEO</div>
       </div>
       <div className="review_area  ra3">
-        <img src="/images/manImage.png" alt="ceo" className="ceo1" />
+        <img src="/images/ceo2.png" alt="ceo" className="ceo1" />
         <div className="exclametry1">"</div>
         <div className="review_text ">
           Lorem ipsum dolor sit amet consectetur. In enim cursus odio accumsan.
